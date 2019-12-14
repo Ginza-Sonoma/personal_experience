@@ -1,0 +1,17 @@
+-> Ir a la Carpeta: cd /d D:\Bachillerato Informatica Empresarial\Workspace MERN\personal_experience
+
+-> Instalar Express: npm install express
+
+-> Instalar Nodemon: npm install nodemon     // Demonio de reinicio de servidor para desarrollar
+
+-> Instalar Cors: npm install cors
+
+-> Instalar Mysql: npm install mysql2
+
+-> Instalar Sequelize: npm install sequelize
+
+-> Correr JS: node index.js            /* NODEMON */   nodemon index.js
+
+-> Cancelar(Apagar Servidor): 'ctrl'+c
+
+-> Limpiar la Consola: cls

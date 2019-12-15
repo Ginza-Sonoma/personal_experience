@@ -1,5 +1,7 @@
 -> Ir a la Carpeta: cd /d D:\Bachillerato Informatica Empresarial\Workspace MERN\personal_experience
 
+-> Creacion package.json : npm init
+
 -> Instalar Express: npm install express
 
 -> Instalar Nodemon: npm install nodemon     // Demonio de reinicio de servidor para desarrollar

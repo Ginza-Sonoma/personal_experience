@@ -1,0 +1,27 @@
+{
+  "name": "personal_experience",
+  "version": "1.0.0",
+  "description": "discovering a mern project",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.0.2",
+    "nodemon": "^2.0.2",
+    "sequelize": "^5.21.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ginza-Sonoma/personal_experience.git"
+  },
+  "author": "Jose Matarrita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ginza-Sonoma/personal_experience/issues"
+  },
+  "homepage": "https://github.com/Ginza-Sonoma/personal_experience#readme"
+}
